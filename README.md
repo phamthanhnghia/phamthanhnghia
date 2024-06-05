@@ -5,6 +5,7 @@
 - **LinkedIn:** [linkedin.com/in/pham-thanh-nghia](https://www.linkedin.com/in/pham-thanh-nghia/)
 - **GitHub:** [github.com/phamthanhnghia](https://github.com/phamthanhnghia)
 - **HackerRank:** [phamthanhnghia_1](https://www.hackerrank.com/profile/phamthanhnghia_1)
+- **LeetCode:** [saigonguy](https://leetcode.com/u/saigonguy)
 
 ## About Me
 My name is Pham Thanh Nghia and I have been working in the Web Application field since 2018. I have experience with PHP, JS and Server
