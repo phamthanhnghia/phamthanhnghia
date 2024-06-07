@@ -1,4 +1,4 @@
-# Pham Thanh Nghia
+<h1 align="center">Pham Thanh Nghia</h1>
 
 ## Contact Information
 - **Email:** phamthanhnghia.it@gmail.com
