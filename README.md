@@ -1,1 +1,1 @@
-<img src="markmap.svg" alt="" width="300">
+<img src="markmap.svg" alt="" width="1000">
