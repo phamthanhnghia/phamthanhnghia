@@ -61,4 +61,5 @@ My name is Pham Thanh Nghia and I have been working in the Web Application field
 - **University of Information Technology, Ho Chi Minh City** - Information System Engineer (2015 - 2019)
 
 ## Certifications
+- **Google Cloud Fundamentals: Core Infrastructure** [#DCFTO57H2B7F](https://www.coursera.org/account/accomplishments/verify/DCFTO57H2B7F)
 - **SQL (Advanced) Certificate** [#e8ee3b1f757a](https://www.hackerrank.com/certificates/e8ee3b1f757a)
